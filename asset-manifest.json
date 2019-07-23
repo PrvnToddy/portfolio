@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6a6e6b2e.chunk.css",
-    "main.js": "/portfolio/static/js/main.cc1f265f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.cc1f265f.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.7a89686d.chunk.css",
+    "main.js": "/portfolio/static/js/main.8fe9237f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8fe9237f.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
     "static/css/2.60a6b8e0.chunk.css": "/portfolio/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.f54e2b76.chunk.js": "/portfolio/static/js/2.f54e2b76.chunk.js",
-    "static/js/2.f54e2b76.chunk.js.map": "/portfolio/static/js/2.f54e2b76.chunk.js.map",
+    "static/js/2.b36dbe56.chunk.js": "/portfolio/static/js/2.b36dbe56.chunk.js",
+    "static/js/2.b36dbe56.chunk.js.map": "/portfolio/static/js/2.b36dbe56.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.32617f6d4fe7dd0d5d67b851a7d0c42a.js": "/portfolio/precache-manifest.32617f6d4fe7dd0d5d67b851a7d0c42a.js",
+    "precache-manifest.90a6dc6d31f8155ec86d2fbccbce6823.js": "/portfolio/precache-manifest.90a6dc6d31f8155ec86d2fbccbce6823.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.60a6b8e0.chunk.css.map": "/portfolio/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.6a6e6b2e.chunk.css.map": "/portfolio/static/css/main.6a6e6b2e.chunk.css.map",
+    "static/css/main.7a89686d.chunk.css.map": "/portfolio/static/css/main.7a89686d.chunk.css.map",
     "static/media/13CSR132.jpg": "/portfolio/static/media/13CSR132.077ba189.jpg",
     "static/media/Praveen Resume-edited.pdf": "/portfolio/static/media/Praveen Resume-edited.6d4228d9.pdf",
-    "static/media/bg.JPG": "/portfolio/static/media/bg.682efdc5.JPG"
+    "static/media/bg.JPG": "/portfolio/static/media/bg.682efdc5.JPG",
+    "static/media/bg1.JPG": "/portfolio/static/media/bg1.a6edb667.JPG",
+    "static/media/bg2.JPG": "/portfolio/static/media/bg2.559c7013.JPG"
   }
 }
